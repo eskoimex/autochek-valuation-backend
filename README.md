@@ -69,7 +69,8 @@ Includes authentication, RBAC, rate limiting, external API integration, seeding,
 
 
 ## Useful scripts
-- npm test
+# E2e Test
+- npm run test
 
 Endpoints:
 Swagger available at /docs after starting server.
